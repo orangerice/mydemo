@@ -49,6 +49,7 @@
       }
     },
     mounted() {
+      // test
       this.init3()
     }
   }
