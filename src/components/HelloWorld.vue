@@ -9,7 +9,7 @@
     name: 'HelloWorld',
     data() {
       return {
-        msg: 'Welcome to Your Vue.js App',
+        msg: 'Welcome to Your Vue.js App2222',
         arr: [{
           name: 'james',
           age: 21
